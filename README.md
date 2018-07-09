@@ -20,7 +20,7 @@ To run this app, you require a text editor and a working web browser on your com
 > Clone this repository into your computer
 
 ```CMD
-git clone https://github.com/ChristineWasike/Two.js-Puppy.git
+git clone https://github.com/ChristineWasike/HangmanJS.git
 ```
 
 > Run `xdg-open index.html` in the terminal at the root of the project to run it in your web browser.
